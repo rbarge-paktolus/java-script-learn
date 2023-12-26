@@ -19,7 +19,7 @@ let age = 26
 let isLoggedIn = true
 
 
-// daatypes
+// datypes
 
 // number  => range is 2 to power 53
 // bigint
